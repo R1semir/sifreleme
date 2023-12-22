@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\sfr\sfr\bin\Debug\sfr.exe.config
+C:\Users\legen\source\repos\sfr\sfr\bin\Debug\sfr.exe
+C:\Users\legen\source\repos\sfr\sfr\bin\Debug\sfr.pdb
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.Form1.resources
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.Properties.Resources.resources
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.exe
+C:\Users\legen\source\repos\sfr\sfr\obj\Debug\sfr.pdb
